@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.anime{
+    @apply hover:transition hover:duration-200 ease-out  hover:ease-in
+}
+
+.buttons{
+    @apply hover:font-semibold border-gray-800 text-white bg-gray-800 rounded-md p-1   hover:text-gray-800 hover:border-gray-800 border-2 hover:bg-white anime
+}
+
+.degreeOne{
+    @apply   text-gray-900 rounded-full p-2  shadow-sm 
+}
+
+.degreeTwo{
+    @apply   text-gray-900 rounded-full p-2 border-b shadow-sm shadow-white
+}
+
+.response{
+    @apply w-[100%]  sm:w-[90%]  md:w-[80%] lg:w-[70%] xl:w-[60%]
+}

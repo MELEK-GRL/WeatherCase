@@ -1,0 +1,812 @@
+[
+  {
+    "id": 1,
+    "name": "Adana",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Akdeniz"
+  },
+  {
+    "id": 2,
+    "name": "Adıyaman",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 3,
+    "name": "Afyonkarahisar",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Ege"
+  },
+  {
+    "id": 4,
+    "name": "Ağrı",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 5,
+    "name": "Amasya",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 6,
+    "name": "Ankara",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 7,
+    "name": "Antalya",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Akdeniz"
+  },
+  {
+    "id": 8,
+    "name": "Artvin",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 9,
+    "name": "Aydın",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Ege"
+  },
+  {
+    "id": 10,
+    "name": "Balıkesir",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Ege"
+  },
+  {
+    "id": 11,
+    "name": "Bilecik",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Marmara"
+  },
+  {
+    "id": 12,
+    "name": "Bingöl",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 13,
+    "name": "Bitlis",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 14,
+    "name": "Bolu",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 15,
+    "name": "Burdur",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Akdeniz"
+  },
+  {
+    "id": 16,
+    "name": "Bursa",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Marmara"
+  },
+  {
+    "id": 17,
+    "name": "Çanakkale",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Marmara"
+  },
+  {
+    "id": 18,
+    "name": "Çankırı",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 19,
+    "name": "Çorum",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 20,
+    "name": "Denizli",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Ege"
+  },
+  {
+    "id": 21,
+    "name": "Diyarbakır",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 22,
+    "name": "Edirne",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Marmara"
+  },
+  {
+    "id": 23,
+    "name": "Elâzığ",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 24,
+    "name": "Erzincan",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 25,
+    "name": "Erzurum",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 26,
+    "name": "Eskişehir",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 27,
+    "name": "Gaziantep",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 28,
+    "name": "Giresun",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 29,
+    "name": "Gümüşhane",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 30,
+    "name": "Hakkâri",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 31,
+    "name": "Hatay",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Akdeniz"
+  },
+  {
+    "id": 32,
+    "name": "Isparta",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Akdeniz"
+  },
+  {
+    "id": 33,
+    "name": "Mersin",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Akdeniz"
+  },
+  {
+    "id": 34,
+    "name": "İstanbul",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Marmara"
+  },
+  {
+    "id": 35,
+    "name": "İzmir",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Ege"
+  },
+  {
+    "id": 36,
+    "name": "Kars",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 37,
+    "name": "Kastamonu",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 38,
+    "name": "Kayseri",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 39,
+    "name": "Kırklareli",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Marmara"
+  },
+  {
+    "id": 40,
+    "name": "Kırşehir",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 41,
+    "name": "Kocaeli",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Marmara"
+  },
+  {
+    "id": 42,
+    "name": "Konya",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 43,
+    "name": "Kütahya",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Ege"
+  },
+  {
+    "id": 44,
+    "name": "Malatya",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 45,
+    "name": "Manisa",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Ege"
+  },
+  {
+    "id": 46,
+    "name": "Kahramanmaraş",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Akdeniz"
+  },
+  {
+    "id": 47,
+    "name": "Mardin",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 48,
+    "name": "Muğla",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Ege"
+  },
+  {
+    "id": 49,
+    "name": "Muş",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 50,
+    "name": "Nevşehir",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 51,
+    "name": "Niğde",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 52,
+    "name": "Ordu",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 53,
+    "name": "Rize",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 54,
+    "name": "Sakarya",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Marmara"
+  },
+  {
+    "id": 55,
+    "name": "Samsun",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 56,
+    "name": "Siirt",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 57,
+    "name": "Sinop",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 58,
+    "name": "Sivas",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 59,
+    "name": "Tekirdağ",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Marmara"
+  },
+  {
+    "id": 60,
+    "name": "Tokat",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 61,
+    "name": "Trabzon",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 62,
+    "name": "Tunceli",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 63,
+    "name": "Şanlıurfa",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 64,
+    "name": "Uşak",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Ege"
+  },
+  {
+    "id": 65,
+    "name": "Van",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 66,
+    "name": "Yozgat",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 67,
+    "name": "Zonguldak",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 68,
+    "name": "Aksaray",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 69,
+    "name": "Bayburt",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 70,
+    "name": "Karaman",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 71,
+    "name": "Kırıkkale",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "İç Anadolu"
+  },
+  {
+    "id": 72,
+    "name": "Batman",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 73,
+    "name": "Şırnak",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 74,
+    "name": "Bartın",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 75,
+    "name": "Ardahan",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 76,
+    "name": "Iğdır",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Doğu Anadolu"
+  },
+  {
+    "id": 77,
+    "name": "Yalova",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Marmara"
+  },
+  {
+    "id": 78,
+    "name": "Karabük",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  },
+  {
+    "id": 79,
+    "name": "Kilis",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Güneydoğu Anadolu"
+  },
+  {
+    "id": 80,
+    "name": "Osmaniye",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Akdeniz"
+  },
+  {
+    "id": 81,
+    "name": "Düzce",
+    "weather:": "Sunny",
+    "degree": "7°C",
+    "wind": "23 km/s",
+    "downpour": "%5",
+    "moisture":"70%",
+    "region": "Karadeniz"
+  }
+]
